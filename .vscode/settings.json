@@ -1,7 +1,6 @@
 {
     "files.associations": {
-        "utility": "cpp",
-        "random": "cpp",
-        "limits": "cpp"
+        "*.tcc": "cpp",
+        "ostream": "cpp"
     }
 }
