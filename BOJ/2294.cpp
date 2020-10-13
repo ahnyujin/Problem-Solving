@@ -1,7 +1,7 @@
 #include <cstdio>
 int main(){
     int n,k;
-    int T[1050]={0};
+    int T[10050]={0};
     scanf("%d %d",&n,&k);
     for(int i=0;i<n;i++){
         int x;
