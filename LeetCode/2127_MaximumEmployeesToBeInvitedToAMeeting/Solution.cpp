@@ -30,6 +30,7 @@ public:
         int maxCount=0;
         int cycleChains=0;
         for(int i=0;i<n;i++){
+            if(vi)
             if(!visited[i]){
                 int cur = i;
                 int cnt = 0;
